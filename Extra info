@@ -1,0 +1,10 @@
+git clone https://github.com/spring-guides/gs-rest-service.git
+
+cd gs-rest-service/
+cd initial/
+cd src/main/java/hello/
+
+Inside hello folder. Create below 4 files
+Application.java  Greeting.java  GreetingController.java  build.gradle
+
+above 4 file code is present in this git directory
